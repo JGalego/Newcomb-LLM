@@ -1,10 +1,16 @@
 # Newcomb's Survey 📊🤔
 
-A Python script that surveys all available models on Groq about [Newcomb's paradox](https://en.wikipedia.org/wiki/Newcomb%27s_paradox), collecting their responses and visualizing the distribution of answers.
+Ever wondered if AI models are rational agents or causal decision theorists?
+
+Let's settle the debate by asking LLMs the ultimate million-dollar question: would they trust a (possibly) omniscient predictor and take one mysterious box, or play it safe and grab both?
+
+Survey the models, collect their reasoning, and see which camp wins in this epic showdown of Newcomb's paradox!
+
+<img src="images/newcomb.png" width="70%" style="display:block; margin-left:auto; margin-right:auto;"/>
 
 ## What's in the box? 📦
 
-**Newcomb's problem**, also known as Newcomb's paradox, is a thought experiment in decision theory involving two boxes:
+**Newcomb's problem**, also known as [Newcomb's paradox](https://en.wikipedia.org/wiki/Newcomb%27s_paradox), is a thought experiment in decision theory involving two boxes:
 
 - **Box A** (transparent): Contains €5
 - **Box B** (opaque): Contains either €50 or nothing
@@ -22,7 +28,7 @@ The question is...
 
 > **Do you take only Box B (one-boxing) or both boxes (two-boxing)?**
 
-<img src="images/question.png" width="50%" style="display:block; margin-left:auto; margin-right:auto;"/>
+<img src="images/question.png" width="30%" style="display:block; margin-left:auto; margin-right:auto;"/>
 
 Hold on to your answer, because we're going to ask a bunch of models what they would do!
 
