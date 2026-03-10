@@ -157,6 +157,7 @@ Would you ONE-BOX or TWO-BOX in Newcomb's problem? Answer just ONE-BOX or TWO-BO
 ## References 📚
 
 - (Brilliant) [Newcomb's paradox](https://brilliant.org/wiki/newcombs-paradox/)
+- (Veritasium) [This Paradox Splits Smart People 50/50](https://www.youtube.com/watch?v=Ol18JoeXlVI)
 - (2020 PhilPapers Survey) [Newcomb's problem: two boxes or one box?](https://survey2020.philpeople.org/survey/results/4886)
 - (Jack's Lab) [Every Major LLM Endorses Newcomb One-Boxing](https://jacktlab.substack.com/p/every-major-llm-endorses-newcomb)
 
